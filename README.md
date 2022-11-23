@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ashis Chaudhary</h1>
-<p align="center">A passionate software engineer.</p>
+<h1 align="center">Hey 👋</h1>
+<p align="center">
+    I have recently completed Bachelor's in IT, currently seeking an opportunity as a Software Engineer.
+    I am moslty involved in front-end tasks using ReactJS and NextJS, and learning back-end (Express) and cloud operations (AWS) as well. 
+    </br>
+    I tend to be overwhelmed time to time when I realize how much there is to learn. Then I take a break and procrastinate with my guitar.
+    Then I get overwhelmed again when I realize how bad I am playing it. Then I take a break and go back to my computer. 
+</p>
 
 ### My tech stack
 
