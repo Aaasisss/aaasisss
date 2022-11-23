@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, namaste, hola, bonjour, guten tag, salve, konnichiwa, asalaam alaikum, olá  </h1>
+<h1 align="center">Hey 👋, Namaste, Hola, Bonjour, olá</h1>
 <p>
     I have recently completed Bachelor's in IT, currently seeking an opportunity as a Software Engineer.
     I am moslty involved in front end tasks using ReactJS and NextJS, and learning back end (Express) and cloud operations (AWS) as well. 
