@@ -1,16 +1,12 @@
 <h1 align="center">Hey 👋, Namaste, Hola, Bonjour, olá</h1>
 <p>
-    I have recently completed Bachelor's in IT, currently seeking an opportunity as a Software Engineer.
-    I am moslty involved in front end tasks using ReactJS and NextJS, and learning back end (Express) and cloud operations (AWS) as well. 
+    I have recently completed my Bachelor's in IT, currently seeking an opportunity as a Software Engineer. I am mostly involved in front-end tasks using ReactJS and NextJS and learning back-end (Express) and cloud operations (AWS) as well.
 </p>
-   
 <p>
-    I tend to be overwhelmed time to time when I realize how much there is to learn. Then I take a break and procrastinate with my guitar.
-    Then I get overwhelmed again when I realize how bad I am playing it. Then I take a break and go back to my computer. 
+    I tend to be overwhelmed from time to time when I realize how much there is to learn. Then I take a break and procrastinate with my guitar. Then I get overwhelmed again when I realize how bad I am playing it. Then I take a break and go back to my computer.
 </p>
-    
 <p>
-    I have not figured out yet what to do with my life. For now, I enjoy creating things on the internet and that's what I am doing. 
+    I have not figured out yet what to do with my life. For now, I enjoy creating things on the internet and that's what I am doing.
 </p>
 
 ### My tech stack
