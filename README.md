@@ -1,13 +1,15 @@
 <h1 align="center">Hey 👋</h1>
-<p align="center">
+<p>
     I have recently completed Bachelor's in IT, currently seeking an opportunity as a Software Engineer.
     I am moslty involved in front end tasks using ReactJS and NextJS, and learning back end (Express) and cloud operations (AWS) as well. 
-    </br>
-    </br>
+</p>
+   
+<p>
     I tend to be overwhelmed time to time when I realize how much there is to learn. Then I take a break and procrastinate with my guitar.
     Then I get overwhelmed again when I realize how bad I am playing it. Then I take a break and go back to my computer. 
-    </br>
-    </br>
+</p>
+    
+<p>
     I have not figured out yet what to do with my life. For now, I enjoy creating things on the internet and that's what I am doing. 
 </p>
 
