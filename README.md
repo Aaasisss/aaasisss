@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Namaste, Hola, Bonjour, olá</h1>
+<h1 align="center">Hey 👋, Namaste, Hola</h1>
 <p>
     I have recently completed my Bachelor's in IT, currently seeking an opportunity as a Software Engineer. I am mostly involved in front-end tasks using ReactJS and NextJS and learning back-end (Express) and cloud operations (AWS) as well.
 </p>
